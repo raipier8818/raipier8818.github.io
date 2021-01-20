@@ -1,5 +1,5 @@
 ---
-title : Codeforce Round #696
+title : Codeforce Round &#35696
 categories:
  - PS
 tags:
